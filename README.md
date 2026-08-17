@@ -155,7 +155,3 @@ Ao final, espera-se que você tenha:
 - Um trabalho estruturado corretamente  
 - Coerência entre teoria, método e resultados  
 - Qualidade acadêmica adequada para defesa  
-
----
-
-**Bom desenvolvimento e bom trabalho!**
